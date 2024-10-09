@@ -9,6 +9,6 @@ When I'm not coding, you can usually find me indulging in my love for games. Whe
 🌱 Learning new frameworks and tools to expand my skill set.
 
 ## 📫 Let’s Connect:
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Email](mailto:your-email@example.com)
+- [GitHub](https://github.com/Friberg))
+- [LinkedIn](https://www.linkedin.com/in/mans-friberg/)
+- [Email](mailto:Friberg095@gmail.com)
